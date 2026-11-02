@@ -7,3 +7,7 @@
 - `song-selected-50s.mp4`, `song-rejected-ending.mp4` — выбранная версия песни и отвергнутая концовка
 - `winged-attack-abc.mp4` — три варианта атаки крылатого существа (A → B → C)
 - `bass-rejected.mp4`, `bass-selected.mp4` — отвергнутый и выбранный голос бойца
+
+## Проводник
+
+[Эволюция персонажа](https://neordenpsy.github.io/dungeon-cult-media/guide/) — итоговый ролик, сравнение артикуляции и история исправлений лица, рук и костюма.
